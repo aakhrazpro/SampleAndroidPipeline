@@ -33,6 +33,6 @@ class ConnectionTestcases {
 
     @Test
     fun test_if_SDK3L_can_be_connected() {
-        assertTrue("SDK3 service is connected",true)
+        assertTrue("SDK3 service is connected",false)
     }
 }
